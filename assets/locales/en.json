@@ -1,0 +1,126 @@
+{
+ "language":"english",
+ "helloWorld":"hello world",
+ "requestARide":"Request a ride",
+ "youareonlinenow": "You are online now",
+ "youareofflinenow": "You are offline now",
+  "nearestOnlineDrivers": "Nearest online drivers",
+  "noNearestOnlineDriver": "No Nearest Online Driver",
+  "pickuplocation": "Pick up location",
+  "pleaseenteryourprice": "Please enter your price!",
+  "price": "Price",
+  "name": "Name",
+  "phone": "Phone",
+  "nowoffline": "Now Offline",
+  "nowonline": "Now Online",
+  "loginasauser" : "Login as a user",
+  "loginasadriver" : "Login as a driver",
+  "signinwithgoogle": "Sign in with google",
+
+  "signinwithfacebook":"Sign in with facebook",
+  "savenow":"Save now",
+  "writecardetails":"Write Car Details now",
+ "pleasechoosecartype":"Please Choose Car Type",
+
+ "carmodel":"car model",
+  "carnumber":"car number",
+  "carcolor":"car color",
+
+  "login": "Login",
+
+  "do_not_have_an_account" :"Do not have an account? Sign Up here" ,
+
+  "signup": "Sign up",
+
+  "from": "From",
+
+  "to":"To",
+  "notGettingAddress": "Not getting the Address",
+
+  "whereToGo": "Where to go?",
+  "address":"Address",
+  "yourname" : "Your name",
+  "youemail": "Your email",
+
+  "history": "History",
+
+  "visitprofile": "Visit profile",
+  "about":"About",
+  "signout": "Sign out",
+  "tripshistory" : "Trips history",
+
+  "searchsetdropoffLocation":"Search set Drop off location",
+  "searchhere": "Search here",
+
+  "origin" : "Origin",
+
+  "destination": "Destination",
+
+  "driveriscoming" : "Driver is coming",
+
+  "driverHasArrived": "Driver has arrived",
+
+  "rateDriver" : "Rate Driver",
+
+  "good": "Good",
+
+  "excellent": "Excellent",
+
+  "home" : "Home",
+
+  "profile": "Profile",
+
+  "ratings": "Ratings",
+
+  "earning": "Earnings",
+
+  "totalearnings": "Total Earnings",
+ "arrived": "Arrived",
+
+  "yourearnings" : "Your Earnings",
+  "tripfareamount" : "Trip fare amount",
+ "collectfarefromuser": "Dies ist der gesamte Reisebetrag. Bitte holen Sie ihn vom Benutzer ab",
+
+ "tripscompleted": "Trips Completed",
+ "collectcash": "Collect Cash",
+  "yourratings": "Your ratings",
+ "newriderequest": "New ride request",
+ "cancel": "Cancel",
+ "accept": "Accept",
+ "riderequestcancelled": "Ride Request has been Cancelled, Successfully. Restart App Now",
+
+
+ "logout": "Logout",
+
+  "gooddriver": "Good Driver",
+
+  "baddriver": "Bad driver",
+
+  "excellentdriver": "Excellent Driver",
+
+  "user" : "User",
+
+  "driver": "Driver",
+
+  "waitingforresponsefromdriver": "Waiting for Response from Driver",
+  "pleasewait": "Please wait...",
+  "calldriver": "Call Driver",
+  "submit": "submit",
+  "veryfood": "very good",
+  "verybad": "very bad",
+  "ratetripexperience": "rate trip experience",
+  "youcancelledtheriderequest": "you have cancelled the ride request",
+  "thisisthetotaltripfareamountpleasepaytodriver": "This is the total trip fare amount, Please Pay it to the driver",
+  "paycash": "Pay Cash",
+  "settingdropoffpleasewait": "Setting Up Drof-Off Please wait",
+  "processingpleasewait": "processing please wait",
+  "error": "error",
+  "loginsuccessful":"login successful",
+  "norecordexistswiththisrecord": "no record exists with this record",
+  "errorocuredduringlogin": "error occurred during login",
+  "accounthasbeencreated": "Account has been Created",
+  "registerasauser": "register as a user",
+  "createaccount": "create account",
+  "alreadyhaveanaccountloginhere": "already have an account login here"
+
+}

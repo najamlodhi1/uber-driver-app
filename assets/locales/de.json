@@ -1,0 +1,128 @@
+{
+ "language":"Deutsch",
+ "helloWorld":"hello welt",
+ "requestaride": "Ein fahrt bestellen",
+ "nearestonlinedrivers": "Online fahrer in der Nahe",
+ "nonearestonlinedriver": "Kein Online fahrer in der Nahe",
+ "pickuplocation": "Ein fahrt bestellen",
+ "pleaseenteryourprice": "Bitte geben sie lhren preis ein",
+ "price": "Preis",
+ "name": "Name",
+ "phone": "Telefon",
+ "nowoffline": "Jetzt offline",
+ "nowonline": "Jetzt online",
+ "loginasauser" : "Anmeldung als Benutzer",
+ "loginasadriver" : "Anmeldung als Fehrer",
+ "signinwithgoogle": "Mit Google anmelden",
+ "youareonlinenow": "Sie sind jetzt online",
+ "youareofflinenow": "Sie sind jetzt offline",
+ "yourratings": "Ihre Bewertungen",
+
+ "newriderequest": "Neue Fahrtanfrage",
+ "cancel": "Abbrechen",
+ "accept": "Annehmen",
+ "riderequestcancelled": "Fahrtanfrage wurde erfolgreich storniert. App jetzt neu starten",
+ "arrived": "Angekommen",
+ "tripfareamount": "Fahrpreisbetrag",
+ "savenow":"jetzt sparen",
+ "collectfarefromuser": "This is the total trip amount, Please  Collect it from user",
+ "writecardetails":"Autodetails schreiben",
+ "collectcash":"Sammeln Sie Bargeld",
+ "carmodel":"Auto Model",
+ "pleasechoosecartype":"Bitte wählen Sie den Fahrzeugtyp",
+ "carnumber":"Autokennzeichen",
+ "carcolor":"Autofarbe",
+ "signinwithfacebook":"Mit Facebook anmelden",
+
+ "login": "Anmeldung",
+
+ "do_not_have_an_account" :"Sie haben noch kein Konto" ,
+
+ "signup": "Registrieren",
+
+ "from": "Von",
+
+ "to":"Nach",
+ "notgettingaddress": "Keine Adresse vorhanden",
+
+ "wheretogo": "Wohin soll ich gehen?",
+ "address":"Adresse",
+ "yourname" : "Ihr Name",
+ "youremail": "Ihre E-Mail",
+
+ "history": "Geschichte",
+
+ "visitprofile": "Profil besuchen",
+ "about":"Über",
+ "signout": "Abmeldung",
+ "tripshistory" : "Verlauf der Fahrten",
+
+ "searchsetdropofflocation":"Suche nach dem Abfahrtsort",
+ "searchhere": "Hier suchen",
+
+ "origin" : "Herkunft",
+
+ "destination": "Ziel",
+
+ "driveriscoming" : "Fahrer kommt",
+
+ "driverhasarrived": "Fahrer ist angekommen",
+
+ "ratedriver" : "Fahrer bewerten",
+
+ "good": "Gut",
+
+ "excellent": "Ausgezeichnet",
+
+ "home" : "Startseite",
+
+ "profile": "Profil",
+
+ "ratings": "Bewertungen",
+
+ "earning": "Verdienst",
+
+ "totalearnings": "Gesamter Verdienst",
+
+ "yourearnings" : "Ihr Verdienst",
+
+ "tripscompleted": "Abgeschlossene Fahrten",
+
+ "logout": "Abmeldung",
+
+ "gooddriver": "Guter Fahrer",
+
+ "baddriver": "Schlechter Fahrer",
+
+ "excellentdriver": "Ausgezeichneter Fahrer",
+
+ "user" : "Benutzer",
+
+ "driver": "Fahrer",
+
+  "waitingforresponsefromdriver": "Ich warte auf Antwort vom Fahrer",
+  "pleaseWait": "Bitte warten...",
+  "calldriver": "Fahrer anrufen",
+  "submit": "einreichen",
+  "verygood": "sehr gut",
+  "verybad": "sehr schlecht",
+  "ratetripexperience": "Fahrerlebnis bewerten",
+  "youcancelledtheriderequest": "Sie haben den Fahrtwunsch storniert",
+  "thisisthetotaltripfareamountpleasepaytodriver": "Dies ist der Gesamtbetrag der Fahrt, bitte zahlen Sie ihn an den Fahrer",
+  "paycash": "Bar bezahlen",
+  "settingdropoffpleasewait": "Übergabe einrichten Bitte warten",
+  "processingpleasewait": "Bearbeitung bitte warten",
+  "error": "Fehler",
+  "loginsuccessful":"Anmeldung erfolgreich",
+  "norecordexistswithrecord": "kein Datensatz zu diesem Datensatz vorhanden",
+  "errorocuredduringlogin": "Fehler bei der Anmeldung aufgetreten",
+  "accounthasbeencreated": "Konto wurde erstellt",
+  "registerasauser": "als Benutzer registrieren",
+  "createaccount": "Konto erstellen",
+  "alreadyhaveanaccountloginhere": "Sie Haben bereit ein Konto Dan anmelden"
+
+
+
+
+
+}
